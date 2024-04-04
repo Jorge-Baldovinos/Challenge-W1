@@ -1,10 +1,7 @@
 # Module One Challenge
 
 ## Description
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This webpage was created as an on-the-job ticket to allow boot camp students to implement the tools gained in their first week of the course. The webpage began as a cloned starter code containing all non-semantic tags to have a boot camp student make any necessary alterations while considering web accessibility standards.
 
 ## Installation
 N/A
