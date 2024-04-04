@@ -37,11 +37,13 @@ header{
 header, nav, ul {
     list-style-type: none;
     padding-right: 13px;
+    justify-content: space-between;
 }
 
 header nav ul li {
-    display: inline-block;
+    display: inline-flex;
     margin-left: 25px;
+    
 }
 
 a {
